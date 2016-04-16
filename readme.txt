@@ -1,3 +1,2 @@
-Git is a version control system.
-大师傅撒发发打发
-skfjdhfdshjkfhsjkfhsd
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
